@@ -6,6 +6,6 @@
     <title>PHP - Hello Nguyễn Hoàng Long!</title>
 </head>
 <body>
-        <h1><?php echo 'Hello, World!'; ?></h1>
+        <h1><?php echo 'Hello Nguyễn Hoàng Long!'; ?></h1>
 </body>
 </html>
